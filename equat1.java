@@ -1,5 +1,5 @@
 import java.io.*;
-
+// modification via eclipse
 class Equation
 {
 	private double a,b,c ;
